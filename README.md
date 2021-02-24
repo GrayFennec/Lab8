@@ -1,4 +1,4 @@
-# Lab8
-
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+# cse110lab7
+8th Lab for CSE 110 Winter 2021, at UCSD  
+Name: Patrick Lin   
+PID: A15832245   
